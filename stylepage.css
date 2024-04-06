@@ -31,6 +31,12 @@ p {
   align-items: center;
 }
 
+.center img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 table, th, td {
   border: 1px solid;
   padding: 10px; 
