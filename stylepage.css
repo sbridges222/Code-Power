@@ -4,13 +4,13 @@ body {
 }
 
 h1 {
-  color: SlateGrey;
+  color: slategrey;
   text-align: center;
   font-family: Georgia, serif;
 }
 
 h2 {
-  color: LightSlateGrey;
+  color: lightslategrey;
   text-align: left;
   margin-left: 50px; 
   font-family: Georgia, serif;
