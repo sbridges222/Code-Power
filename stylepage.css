@@ -38,14 +38,14 @@ h1 {
 }
 
 h2 {
-  color: slategrey;
+  color: black;
   text-align: center;
   font-family: Georgia, serif;
   font-size: 2.5em; /* Increase font size */
 }
 
 p {
-  color: grey;
+  color: black;
   margin-left: 50px;
   margin-right: 50px;
   font-family: Aptos;
