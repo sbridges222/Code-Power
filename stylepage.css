@@ -1,10 +1,9 @@
-#hex{
-  background-color:#FCDCED;
+{
+  background-color: lavenderblush;
 }
 
-h1 #hex{
-  background-color:#FCDCED;
-  color: lightpink;
+h1 {
+  color: pink;
   text-align: center;
   font-family: Aptos SemiBold;
 }
@@ -36,4 +35,8 @@ table, th, td {
   text-align: center;
   height: 30px;
   margin-left: 50px
+}
+.smaller-image {
+  width: 200px'
+  height: 150px;
 }
