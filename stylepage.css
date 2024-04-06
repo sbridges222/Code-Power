@@ -77,9 +77,14 @@ table, th, td {
   border-collapse: collapse; /* Ensure borders collapse properly */
 }
 
-img {
-  max-width: 30%;
-  height: auto;
+/* Style for normal-size images */
+.normal-size {
+  max-width: 30%; /* Set the maximum width for normal-size images */
+}
+
+/* Style for big-size image */
+.big-size {
+  max-width: 50%; /* Set the maximum width for the big-size image */
 }
 
 a {
