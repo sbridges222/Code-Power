@@ -2,7 +2,8 @@ body #hex{
   background-color:#FCDCED;
 }
 
-h1 {
+h1 #hex{
+  background-color:#FCDCED;
   color: lightpink;
   text-align: center;
   font-family: Aptos SemiBold;
