@@ -1,18 +1,19 @@
+css
 head {
-  background-color: sand;
+  background-color: Azure;
 }
 
 h1 {
-  color: pink;
+  color: SlateGrey;
   text-align: center;
-  font-family: Aptos SemiBold;
+  font-family: Georgia, serif;
 }
 
 h2 {
-  color: lightpink;
+  color: LightSlateGrey;
   text-align: left;
   margin-left: 50px; 
-  font-family: Aptos Serif;
+  font-family: Georgia, serif;
 }
 
 p {
@@ -33,10 +34,6 @@ table, th, td {
   border: 1px solid;
   padding: 2px;
   text-align: center;
-  height: 30px;
-}
-.smaller-image {
-  width: 200px;
 }
 img {
   max-width: 25%;
