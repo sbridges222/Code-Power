@@ -39,7 +39,7 @@ table, th, td {
 }
 
 img {
-  max-width: 100%; /* Make images responsive */
+  max-width: 30%; /* Make images responsive */
   height: auto;
   display: block;
   margin-left: auto;
