@@ -1,23 +1,23 @@
 body {
-  background-color: mistyrose;
+  background-color: black;
 }
 
 h1 {
-  color: slategrey;
+  color: white;
   text-align: center;
   font-family: Georgia, serif;
   font-size: 2.5em; /* Increase font size */
 }
 
 h2 {
-  color: lightslategrey;
+  color: white;
   text-align: left;
   margin-left: 50px; 
   font-family: Georgia, serif;
 }
 
 p {
-  color: black;
+  color: white;
   margin-left: 50px;
   margin-right: 50px;
   font-family: Aptos;
@@ -47,7 +47,7 @@ img {
 }
 
 a {
-  color: slategrey;
+  color: white;
   text-decoration: none;
   transition: color 0.3s ease; /* Add smooth transition */
 }
