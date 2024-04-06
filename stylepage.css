@@ -1,5 +1,5 @@
 {
-  background-color: mistyrose;
+  background-color: black;
 }
 
 h1 {
@@ -37,6 +37,5 @@ table, th, td {
   margin-left: 50px
 }
 .smaller-image {
-  width: 200px'
-  height: 150px;
+  width: 200px;
 }
