@@ -39,9 +39,9 @@ p {
 
 table, th, td {
   border: 1px solid;
-  padding: 10px; 
+  padding: 10px; /* Increase padding for better spacing */
   text-align: center;
-  border-collapse: collapse;
+  border-collapse: collapse; /* Ensure borders collapse properly */
 }
 
 img {
