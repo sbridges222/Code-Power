@@ -26,16 +26,16 @@ p {
 }
 
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 table, th, td {
   border: 1px solid;
-  padding: 10px; /* Increase padding for better spacing */
+  padding: 10px; 
   text-align: center;
-  border-collapse: collapse; /* Ensure borders collapse properly */
+  border-collapse: collapse;
 }
 
 img {
@@ -43,13 +43,7 @@ img {
   height: auto;
 }
 
-a {
-  color: white;
-  text-decoration: none;
-  transition: color 0.3s ease; /* Add smooth transition */
-}
 
-a:hover {
-  color: darkslategrey; /* Change color on hover */
-}
+
+
 
