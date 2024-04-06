@@ -1,4 +1,4 @@
-{
+body {
   background-color: sand;
 }
 
@@ -34,7 +34,6 @@ table, th, td {
   padding: 2px;
   text-align: center;
   height: 30px;
-  margin-left: 50px
 }
 .smaller-image {
   width: 200px;
