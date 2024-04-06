@@ -84,7 +84,7 @@ table, th, td {
 
 /* Style for big-size image */
 .big-size {
-  max-width: 50%; /* Set the maximum width for the big-size image */
+  max-width: 40%; /* Set the maximum width for the big-size image */
 }
 
 a {
