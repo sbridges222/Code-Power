@@ -49,6 +49,12 @@ img {
   height: auto;
 }
 
+a {
+  color: slategrey;
+  text-decoration: none;
+  transition: color 0.3s ease; /* Add smooth transition */
+}
+
 a:hover {
   color: darkslategrey; /* Change color on hover */
 }
