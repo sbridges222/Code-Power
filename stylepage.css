@@ -1,5 +1,5 @@
 {
-  background-color: grey;
+  background-color: sand;
 }
 
 h1 {
@@ -40,6 +40,6 @@ table, th, td {
   width: 200px;
 }
 img {
-  max-width: 50%;
+  max-width: 30%;
   height: auto;
 }
