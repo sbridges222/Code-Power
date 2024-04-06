@@ -83,13 +83,13 @@ img {
 }
 
 a {
-  color: lightsteelblue;
+  color: steelblue;
   text-decoration: none;
   transition: color 0.3s ease; /* Add smooth transition */
 }
 
 a:hover {
-  color: steelblue; /* Change color on hover */
+  color: cornflowerblue; /* Change color on hover */
 }
 
 
