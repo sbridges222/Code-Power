@@ -44,6 +44,13 @@ h2 {
   font-size: 2.5em; /* Increase font size */
 }
 
+h3 {
+  color: black;
+  text-align: center;
+  font-family: Georgia, serif;
+  font-size: 2.5em; /* Increase font size */
+}
+
 p {
   color: black;
   margin-left: 50px;
