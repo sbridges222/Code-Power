@@ -64,7 +64,7 @@ p {
   align-items: center;
 }
 
-.center small img {
+.small-img {
   max-width: 30%; 
   height: auto;
   display: block;
@@ -78,8 +78,8 @@ p {
   align-items: center;
 }
 
-.center large img {
-  max-width: 1000%; 
+.large-img {
+  max-width: 100%; 
   height: auto;
   display: block;
   margin-left: auto;
