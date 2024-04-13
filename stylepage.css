@@ -58,28 +58,14 @@ p {
   line-height: 1.5; /* Improve line height */
 }
 
-.center small {
+.center {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.small-img {
-  max-width: 30%; 
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.center large {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.large-img {
-  max-width: 100%; 
+.center img {
+  max-width: 50%; 
   height: auto;
   display: block;
   margin-left: auto;
