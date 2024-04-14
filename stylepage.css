@@ -49,11 +49,16 @@ h3 {
   font-family: Georgia, serif;
 }
 
+h4 {
+  color: black;
+  text-align: left;
+  font-family: Georgia, serif;
+}
 p {
   color: black;
   margin-left: 50px;
   margin-right: 50px;
-  font-family: Aptos;
+  font-family: Georgia, serif;
   font-size: 1em;
   line-height: 1.5; /* Improve line height */
 }
